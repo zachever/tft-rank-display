@@ -18,7 +18,7 @@ def get_puuid(riot_id, tag):
     return get_request(url)["puuid"]
 
 puuid = get_puuid(RIOT_ID, TAG)
-
+print(puuid)
 def get_tier_rank_lp(puuid):
     url = "https://oc1.api.riotgames.com/tft/league/v1/by-puuid/" + puuid
     rank_info = get_request(url)

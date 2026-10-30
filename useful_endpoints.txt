@@ -1,0 +1,2 @@
+https://127.0.0.1:63023/lol-ranked/v1/apex-leagues/RANKED_TFT/MASTER
+https://127.0.0.1:63023/lol-summoner/v1/alias/lookup?gameName=TeZZy&tagLine=TeZZy
